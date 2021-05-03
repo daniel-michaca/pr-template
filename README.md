@@ -1,1 +1,1 @@
-# another-template
+# pr-template
